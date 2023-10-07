@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rekomendasi Novel Islami </title>
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+    }
+
+    body {
+        font-family: sans-serif;
+        background-color:aqua(250, 252, 123, 0.522);
+        position:absolute;
+    }
+
+    h1 {
+        font-size: 35px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-color:rgb(250, 190, 99);
+    }
+
+    .content {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    p {
+        font-family: sans-serif;
+        font-size: 15px;
+        text-align: justify;
+    }
+
+    img {
+        margin-top: 0;
+        padding-top: 0;
+        width: 150px;
+        height: 250px;
+    }
+
+    .product1 {
+        margin-top: 3rem;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .product1 p {
+        margin-left: 2rem;
+    }
+
+    .product2 {
+        margin-top: 3rem;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .product2 p {
+        margin-left: 2rem;
+    }
+
+    .product3 {
+        margin-top: 3rem;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .product3 p {
+        margin-left: 2rem;
+    }
+
+    .product4 {
+        margin-top: 3rem;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .product4 p {
+        margin-left: 2rem;
+    }
+
+    .product5 {
+        margin-top: 3rem;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .product5 ul {
+        margin-top: 4rem;
+        margin-left: 2rem;
+    }
+
+    .resume {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    footer{
+        align-items: center;
+        justify-content: center;
+        background-color:rgb(250, 190, 99);
+    }
+
+    footer .footer{
+        margin-left: 50px;
+    }
+</style>
+<body>
+    <!-- start content -->
+    <main>
+    <h1> Rekomendasi Novel Islami</h1><br>
+    <div class="content">
+        <P> 
+            Membaca adalah kegiatan yang digemari banyak orang, anak-anak hingga orang dewasa dan lansia pun senang membaca. Berkembangnya zaman membuat inovasi tersendiri bagi para penulis novel cinta Islami. Mereka beranggapan bahwa berdakwah tak hanya berbicara di belakang mimbar, melainkan juga dapat disebarkan dengan cara yang menarik. Sebagai negara dengan jumlah penduduk muslim terbesar di dunia, novel dengan genre romantis yang dibalut dengan unsur dakwah tentu sangat diminati di Indonesia. 
+        </P> <br>
+        <p>
+            Menyelami agama lebih dalam tidak perlu dengan cara yang keras. Mengetahui banyak ilmu dengan cara yang ringan juga bisa menambah wawasan kita soal agama. Supaya harimu lebih menyenangkan dan menambah ilmu juga, berikut daftar novel islami terbaik yang wajib kamu baca –menurut pengalaman pribadiku.
+        </p> <br>
+    </div>
+
+    <h2> 1. Ayat-Ayat Cinta</h2>
+    <div class="product1"> 
+        <p> 
+            Ditulis oleh Habiburrahman EL Shirazy, alias Kang Abik, "Ayat-Ayat Cinta" menjadi novel dengan genre Islami romantis pertama yang wajib kamu baca. Review positif terhadap novel yang satu ini tak perlu diragukan lagi. Kisah religi yang dibalut dengan cerita romansa diceritakan secara menarik dan mengalir, membuat pesan-pesan cerita dari "Ayat-Ayat Cinta" tersampaikan dengan baik.
+            bercerita tentang Fahri, pemuda Indonesia yang sedang menimba ilmu di Mesir, Al-Azhar. Tentang Maria, gadis Mesir Kristen Koptik taat yang tinggal diatas flatnya. Tentang Nurul, putri seorang kyai tanah air. Tentang Noura, gadis Mesir yang ia tolong. Dan tentang Aisha, gadis Jerman-Turki yang berhasil memenangkan cintanya. Tak hanya kisah cinta, novel ini juga sarat akan nasihat dan petuah agama.
+        </p> <br>
+    <img src="images/Ayatayatcinta.jpg" alt="ayat-ayat cinta" style="float:right;width:150px;height:250px;">
+    </div>
+
+    <h2> 2.	Api Tauhid</h2>
+    <div class="product2"> 
+        <p>
+            Ini adalah novel roman dan sejarah. Novel roman yang bercerita seputar perjuangan anak muda asal Lumajang, Jawa Timur, yang bernama Fahmi. Ia dan beberapa rekannya seperti Ali, Hamza, dan Subki, menuntut ilmu di Universitas Islam Madinah.     
+    
+            “Api Tauhid” merupakan novel sejarah pertama yang ditulis oleh Habiburrahman. Novel yang diterbitkan pertama kali oleh Republika Penerbit pada November 2014 itu mengisahkan tentang perjuangan  Badiuzzaman Said Nursi, seorang ulama dan pejuang asal Turki. Banyak kisah yang bisa dijadikan teladan. Terutama sosok Badiuzzaman Said Nursi. Sosok ulama, intelektual dan pejuang dari Turki. Mengenal sosok Badiuzzaman Said Nursi  membuat kita kagum. Selain itu, novel ini tidak saja berkisah soal romantisme, tapi juga soal sejarah.
+        </p>
+    <img src="images/apitauhid.jpg" alt="api tauhid" style="float:left;" width="150" height="250;">
+    </div>
+
+    <h2> 3.	Sang Pangeran Dan Janissary Terakhir</h2>
+    <div class="product3"> 
+        <p>
+            Buku ini merupakan novel pertama yang ditulis Ustadz Salim A. Fillah, setelah sebelumnya menerbitkan buku-buku islam. 
+            Dari buku ini kita bisa mengetahui bagaimana pemikiran, adab dan kesalihan seorang Sultan Abdul Hamid Diponegoro, Dalam perjuangan yang panjang, beliau tak pernah lupa untuk tetap bertafakur dan bermuhasabah. Gua Selarong adalah tempat kesukaan beliau untuk menyendiri, dan di sanalah beliau beberapa kali mengalami pengalaman spiritual. Diselingi dengan kisah cinta antara dua Janissary terakhir dengan putri Fatmasari yang jelita. Cinta yang dipenuhi cinta, bukan sekedar nafsu untuk memiliki dan dimiliki.
+        </p> <br>
+    <img src="images/sangpangeran.jpg" alt="sang pangeran" style="float:left;" width="150" height="250">
+    </div>
+
+    <h2> 4.	Tenggelamnya Kapal Van Der Wijck</h2>
+    <div class="product4">
+        <p>
+            Mengisahkan tentang semangat Zainuddin, seorang pemuda miskin yang mencintai Hayati. Keteguhan dan perjuangannya membangun kehidupan setelah ditolak oleh keluarga Hayati membuat Zainuddin bekerja keras dan menjadi seorang penulis yang sangat sukses. 
+
+            Mendengar kisah sedih Hayati yang diperistri oleh pemuda yang gemar foya-foya membuat Zainuddin tetap mencintai Hayati dengan cara yang lain. Cinta suci Zainuddin yang terus membantu Hayati saat keluarganya dalam masa-masa sulit terus mekar di dalam hati mereka berdua hingga ajal menjemputnya.
+        </p> <br>
+    <img src="images/kapalvanderwijck.jpg" alt="kapalvanderwijck" style="float:left;" width="150" height="250">
+    </div>
+
+    <h2> 5.	Cinta Dalam 99 Nama-Mu</h2>
+    <div class="product5"> 
+        <p>
+            Novel ini berkisah tentang Arum, gadis ringkih dengan berbagai penyakit yang divoniskan padanya, dan Alif, pemuda urakan yang tak asing dengan alcohol.  
+            Membaca novel ini, pembaca akan diajak menyusuri metamorfosis kepribadian Alif dan Arum. Keduanya sosok yang jauh dari pribadi sempurna, namun perjalanan waktu menyadarkan masing-masing, dengan cara berbeda, betapa liukan kehidupan akan senantiasa terkawal ikhlas dan ridha Sang Kuasa jika kita menyandarkan harap dan pinta semata kepada-Nya.
+            
+            Menariknya, di setiap episode kehidupan yang dilalui baik suka maupun duka karakter utama dalam buku ini, mereka selalu mengingat 99 nama Allah, atau biasa disebut 99 Asmaul Husna. Moral of the story dari novel ini, apapun kehidupan yang kita jalani, selama kita mengingat dan mendekat kepada Allah, maka pertolongan Allah selalu datang pada hambanya yang memohon dan berdoa.
+            Sepertinya mulai saat ini, saya pun harus membiasakan diri untuk mengingat dan membaca ke 99 nama-Mu.
+        </p> <br>
+    <img src="images/cinta99namaMu.jpg" alt="cinta dalam 99 nama-Mu" style="float:left;" width="150" height="250">
+    </div>
+    </main>
+<!--footer section-->
+<footer>
+    <div class="footer">
+        <p>Review By :</p>
+        <p>Fita Apriaulia</p>
+    </div>
+</footer>
+<!--end content-->
+</body>
+</html>  
