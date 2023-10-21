@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resep Kue Lumpur</title>
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon (1).ico">
+</head>
+<style>
+    
+    table,
+    tr,
+    th,
+    td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      margin: 15px;
+      width: 50%;
+      padding-left: 15px;
+    }
+
+</style>
+
+<body style="background-color: moccasin;">
+    <div id="judul">
+        <h1 style="background-color:burlywood; font-family:verdana; text-align:center;"> Kue Lumpur </h1>
+    </div>
+    <div class="content">
+        Kue lumpur merupakan salah satu jajanan khas Indonesia yang biasanya dijual di pasar tradisional. Kue ini pertama kali dibuat di daerah Betawi. <br>
+
+        Kue lumpur termasuk ke dalam golongan jajanan basah, yang berarti kue ini tidak akan bisa bertahan lama atau mudah basi jika menyimpan di suhu ruang dalam jangka waktu yang lama. 
+
+        Biasanya kue lumpur diberi topping berupa taburan buah kismis di atas adonan atau bisa juga diberi taburan keju parut agar cita rasa kue lumpur semakin nikmat. <br>
+
+        Kue lumpur bisa dengan mudah ditemukan di pasar tradisional dengan harga yang murah dan terjangkau. Kue ini memiliki tekstur yang lembut dan tidak keras. Sehingga bisa dikonsumsi oleh segala usia.<br>
+    </div>
+    <div class="media">
+        <img src="/webstatis/images/kue lumpur.webp" style="float:center;">
+    </div>
+    <table>
+        <tr>
+            <th> Bahan </th>
+            <th> Takaran </th>
+        </tr>
+        <tr>
+            <td> Mentega/Butter </td>
+            <td> 100 Gram </td>
+        </tr>
+        <tr>
+            <td> Santan </td>
+            <td> 250 Ml </td>
+        </tr>
+        <tr>
+            <td> Gula Pasir </td>
+            <td> 100 Gram </td>
+        </tr>
+        <tr>
+            <td> Vanilla bubuk/cair </td>
+            <td> Secukupnya </td>
+        </tr>
+        <tr>
+            <td> Tepung Terigu </td>
+            <td> 150 Gram </td>
+        </tr>
+        <tr>
+            <td> Kental Manis Cap Enaak Plain </td>
+            <td> 100 Gram </td>
+        </tr>
+        <tr>
+            <td> Air </td>
+            <td> 170 Ml </td>
+        </tr>
+        <tr>
+            <td> Telur Ayam </td>
+            <td> 2 Butir </td>
+        </tr>
+        <tr>
+            <td> Almond/Kismis untuk hiasan </td>
+            <td> Secukupnya </td>
+        </tr>
+    </table>
+    <p>
+        Cara membuat: <br>
+        Pertama, lelehkan margarin/butter bersama dengan santan dan gula diatas api kecil, setelah itu biarkan suhunya menjadi sedikit lebih dingin.<br>
+
+        Selanjutnya, kocok telur hingga berbusa. Bisa menggunakan mixer atau whisk tangan. Tambahkan sedikit vanilla dan susu kental manis.  Tuang air perlahan sambil terus diaduk, dan masukkan tepung terigu secara bertahap sedikit demi sedikit, aduk hingga tercampur rata dan tidak ada gumpalan tepung. <br>
+
+        Terakhir, tuang margarin yang sudah dicairkan bersama santan dan gula tadi dan aduk hingga rata. <br>
+        Setelahnya, panaskan cetakan kue lumpur diatas api kecil hingga, dan tuangkan satu sendok sayur adonan ke setiap lubang cetakannya. Tunggu hingga pinggirannya matang dan taruh potongan almond atau kismis diatasnya sebagai hiasan. Tutup dan tunggu hingga matang dan kue lumpur bisa diangkat. Sajikan bersama teh hangat atau kopi. <br>
+    </p>
+    <div class="video">
+        <iframe  
+        src="https://www.youtube.com/embed/I0Mg6dW8U0c?si=AcwO_IvMpkt_3F4r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
+        >
+        </iframe>
+        <p>
+          Berikut link untuk selengkapnya:
+          <a href= "https://www.youtube.com/embed/I0Mg6dW8U0c?si=AcwO_IvMpkt_3F4r">
+            Kue Lumpur
+        </a>
+        </p>
+    </div>
+    <hr>
+    <label>
+        <label for="fname">First Name :</label>
+        <input type="text" id="fname" name="fname"><br>
+        <label for="email">Email :</label>
+        <input type="text" id="email" name="email"> 
+    </label>
+    <hr>
+<!--footer section-->
+<footer>
+    <div class="footer">
+        <p style="background-color:burlywood;">Review By : <br>
+        Fita Apriaulia </p>
+    </div>
+</footer>
+<!--end content-->
+</body>
+</html>
